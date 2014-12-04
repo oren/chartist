@@ -1,12 +1,15 @@
 # Charts using CHARTIST.JS
 
-simple responsive charts - http://gionkunz.github.io/chartist-js
+Simple Responsive Charts - http://gionkunz.github.io/chartist-js
+
+![chart](chart.png)
+![chart](chart-small.png)
 
 ## Index
 
 * [Setup](#setup)
 
-## Install
+## Setup
 
     git clone git@github.com:oren/charts.git
     cd charts
